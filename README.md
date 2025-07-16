@@ -1,5 +1,3 @@
-# loanprediction
-
 # Loan Default Prediction for Financial Risk Management
 Introduction & Business Problem
 This project aims to develop a machine learning model that can accurately predict the likelihood of a borrower defaulting on a loan. For financial institutions, the ability to predict loan defaults is critical for mitigating financial risk, making informed lending decisions, and ensuring regulatory compliance.
